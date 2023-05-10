@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317882827487",
+    "project_id": "silverline-it-f4647",
+    "storage_bucket": "silverline-it-f4647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317882827487:android:8967d8913916c94d901f6a",
+        "android_client_info": {
+          "package_name": "com.yasiru.silverlineit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317882827487-qknerqmj4sf1ah7r3g9gtkgct6p28f0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEQ_ttYy7DXkrUVja7AlXkU13LEMskLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317882827487-qknerqmj4sf1ah7r3g9gtkgct6p28f0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
